@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}
+= Zhiyi (Allen) Renn
+
+~~~
+{}{img_left}{\pictures\headshot_hopkins.jpg}{headshot}{132}{183}{headshot_hopkins.jpg}
+*Ph.D. Student*\n
+[https://irom-lab.princeton.edu/ Intelligent Robot Motion (IRoM) Lab]\n
+Department of Mechanical and Aerospace Engineering\n
+Princeton University\n\n
+Advisor: [https://irom-lab.princeton.edu/majumdar/ Prof. Anirudha Majumdar]\n\n
+Email: [zhiyir@princeton.edu zhiyir@princeton.edu]
+~~~
+
+== Ph.D. Research
+- Integrating model-based and learning methods to improve formal generalization guarantees of robotic manipulation 
+
+== Education
+- Ph.D. Student in Mechanical Engineering, Princeton University, 2019-Present
+- M.S.E. Robotics, Johns Hopkins University, 2018-2019
+- B.S. Mechanical Engineering, Minor in Mathematics, Johns Hopkins University, 2015-2019\n
+  Advisor: [https://me.jhu.edu/faculty/chen-li/ Prof. Chen Li]
+
+== Awards and Scholarships
+- James F. Bell Award, for outstanding research and scholarly achievement in mechanical engineering, Johns Hopkins University, 2018
+- Robotics Institute Summer Scholars, Carnegie Mellon University, 2018
+- Robert George Gerstmyer Award, for outstanding undergraduate achievement in mechanical engineering, Johns Hopkins University, 2019
+- ASME Best Senior Design Project, Johns Hopkins University, 2019
+
+== Undergraduate Research
+- Built insect-inspired legged robots and investigated general principles of terrestrial locomotion through robophysical experiments
+- Developed a proprioceptive contact-detection leg observer for Minitaur robot and applied it to disturbance and touchdown detection during stair climbing
+- Built a "smart" guitar that measures forces applied by the ﬁngers at 72 locations on the fretboard
