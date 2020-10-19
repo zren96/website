@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-= Allen Z. Ren  ~~~~任至意
+= Allen (Zhiyi) Ren  ~~~~任至意
 
 ~~~
 {}{img_left}{\pictures\headshot_hopkins.jpg}{headshot}{132}{155}{headshot_hopkins.jpg}
@@ -8,12 +8,18 @@
 Department of Mechanical and Aerospace Engineering\n
 Princeton University\n\n
 Advisor: [https://irom-lab.princeton.edu/majumdar/ Prof. Anirudha Majumdar]\n\n
-Email: [zhiyir@princeton.edu zhiyir@princeton.edu]
+Email: [allen.ren@princeton.edu allen.ren@princeton.edu]
 ~~~
 
 == Ph.D. Research
-- New preprint: Generalization Guarantees for Multi-Modal Imitation Learning [https://arxiv.org/abs/2008.01913 Arxiv] [https://github.com/irom-lab/PAC-Imitation Code] [https://www.youtube.com/watch?v=dfXyHvOTolc&t=1s Video]
-- Integrating model-based and learning methods to improve formal generalization guarantees of robotic manipulation 
+~~~
+{}{img_left}{\pictures\corl20_thumbnail.jpg}{corl20_thumbnail}{250}{142}{corl20_thumbnail.jpg} 
+- Generalization Guarantees for Multi-Modal Imitation Learning \n Allen Z. Ren, [http://sveer.mycpanel.princeton.edu/ Sushant Veer], Anirudha Majumdar \n Conference on Robot Learning (CoRL) 2020 (accepted) [https://arxiv.org/abs/2008.01913 Arxiv] [https://github.com/irom-lab/PAC-Imitation Code] [https://www.youtube.com/watch?v=dfXyHvOTolc&t=1s Video]
+~~~
+
+- Quantifying distributional shift between training and test environments for robotic tasks
+- Integrating model-based and learning methods to improve formal generalization guarantees of robotic manipulation
+- Providing generalization guarantees for online adaptation in model-based RL
 
 == Education
 - Ph.D. Student in Mechanical Engineering, Princeton University, 2019-Present
@@ -22,15 +28,15 @@ Email: [zhiyir@princeton.edu zhiyir@princeton.edu]
   Advisor: [https://me.jhu.edu/faculty/chen-li/ Prof. Chen Li]
 
 == Awards and Scholarships
-- James F. Bell Award, for outstanding research and scholarly achievement in mechanical engineering, Johns Hopkins University, 2018
-- Robotics Institute Summer Scholars, Carnegie Mellon University, 2018
-- Robert George Gerstmyer Award, for outstanding undergraduate achievement in mechanical engineering, Johns Hopkins University, 2019
-- ASME Best Senior Design Project, Johns Hopkins University, 2019
+- James F. Bell Award, for outstanding research and scholarly achievement in mechanical engineering, JHU, 2018
+- Robotics Institute Summer Scholars, CMU, 2018
+- Robert George Gerstmyer Award, for outstanding undergraduate achievement in mechanical engineering, JHU, 2019
+- ASME Best Senior Design Project, JHU, 2019
 
 == Undergraduate Research
-- Built insect-inspired legged robots and investigated general principles of terrestrial locomotion through robophysical experiments [http://meetings.aps.org/Meeting/MAR18/Session/B50.10 APS 2018] [\pdfs\bb_2017.pdf BB 2019]
-- Developed a proprioceptive contact-detection leg observer for Minitaur robot and applied it to disturbance and touchdown detection during stair climbing [/pdfs/riss_2018.pdf RISS 2018]
-- Built a "smart" guitar that measures forces applied by the ﬁngers at 72 locations on the fretboard [\pdfs\sensor_2019.pdf IEEE Sensor 2019]
+- Built insect-inspired legged robots and investigated general principles of terrestrial locomotion through robophysical experiments [http://meetings.aps.org/Meeting/MAR18/Session/B50.10 APS 2018], [\pdfs\bb_2017.pdf BB 2019]
+- Developed a proprioceptive contact-detection leg observer for Minitaur robot and applied it to disturbance and touchdown detection during stair climbing, with Prof. [http://www.andrew.cmu.edu/user/amj1/index.html Aaron Johnson] [/pdfs/riss_2018.pdf RISS 2018]
+- Built a "smart" guitar that measures forces applied by the ﬁngers at 72 locations on the fretboard [\pdfs\sensor_2019.pdf IEEE Sensor 2019], [https://www.hiroyusei.com/smart-guitar More details]
 
 == About Me
 I was born in Jiangsu, China and grew up there until 16 when I came to the U.S. by myself to continue high school studies. I can speak Mandarin, English, and [https://en.wikipedia.org/wiki/Wu_Chinese Wu] fluently. I enjoy soccer (both watching and playing) and traveling/backpacking. I am also getting a private pilot license.
