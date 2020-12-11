@@ -55,8 +55,10 @@ font-size: 90%;
 font-family: monaco, monospace;
 }
 
+ /* keep hyperlink blue */
 a, a > tt {
 color: #224b8d;
+/* color: #e77500; */
 text-decoration: none;
 }
 
@@ -64,6 +66,7 @@ a:hover {
 border-bottom: 1px gray dotted;
 }
 
+ /* keep menu blue */
 #layout-menu a.current:link, #layout-menu a.current:visited {
 color: #022b6d;
 border-bottom: 1px gray solid;
@@ -91,8 +94,8 @@ text-indent: -16px;
 
 div#toptitle {
 padding-bottom: 0.2em;
-margin-bottom: 1.5em;
-border-bottom: 3px double gray;
+margin-bottom: 1.0em;
+/* border-bottom: 6px #e77500; */
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -116,14 +119,16 @@ font-weight: bold;
 }
 
 
+/* heading */
 h1, h2, h3 {
-color: #527bbd;
+color: #4e2e0e;
+/* color: #e77500; */
 margin-top: 0.7em;
 margin-bottom: 0.3em;
 padding-bottom: 0.2em;
 line-height: 1.0;
 padding-top: 0.5em;
-border-bottom: 1px solid #aaaaaa;
+border-bottom: 3px solid #e77500;
 }
 
 h1 {
