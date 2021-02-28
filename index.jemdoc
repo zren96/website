@@ -18,8 +18,6 @@ Email: [allen.ren@princeton.edu allen.ren@princeton.edu]
 ~~~
 
 - Quantifying distributional shift and adversarially augmenting dataset for robot training
-- Integrating model-based and learning methods to improve generalization guarantees of robotic manipulation
-- Providing generalization guarantees for meta RL
 
 == Education
 - Ph.D. Student in Mechanical Engineering, Princeton University, 2019-Present
@@ -39,15 +37,6 @@ Email: [allen.ren@princeton.edu allen.ren@princeton.edu]
 - Built a "smart" guitar that measures forces applied by the ﬁngers at 72 locations on the fretboard [\pdfs\sensor_2019.pdf IEEE Sensor 2019], [https://www.hiroyusei.com/smart-guitar More details]
 
 == Others
-- Teaching assistant: 
-  -- Spring 2021, Intro to Engineering Dynamics, Princeton MAE 
-  -- Spring 2019, Design and Analysis of Dynamical Systems, JHU ME
-  -- Fall 2018, Dynamics of Robots and Spacecraft, JHU ME
-  -- Spring 2017, Intermediate Programming (C/C++), JHU CS
-- Undergraduate research mentoring: 
-  -- Ryan Brott, Princeton COS, Winter 2020 - Present
-  -- Shri Deshmukh, Caltech ME (SURI program), Summer 2020
-- Reviewing: Conference on Robot Learning (CoRL)
 - Service: 
   -- Co-organizer, Princeton Robotics Seminar
   -- Webmaster, [robo.princeton.edu Robotics at Princeton]
