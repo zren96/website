@@ -2,7 +2,7 @@
 = Allen Z. Ren  ~~~~任至意
 
 ~~~
-{}{img_left}{\pictures\headshot_hopkins.jpg}{headshot}{132}{155}{headshot_hopkins.jpg}
+{}{img_left}{\pictures\Allen.jpg}{headshot}{145}{175}{Allen.jpg}
 *Ph.D. Student*\n
 [https://irom-lab.princeton.edu/ Intelligent Robot Motion (IRoM) Lab]\n
 Department of Mechanical and Aerospace Engineering\n
@@ -13,11 +13,16 @@ Email: [allen.ren@princeton.edu allen.ren@princeton.edu]
 
 == Ph.D. Research
 ~~~
+{}{img_left}{\pictures\DRAGEN_thumbnail.png}{DRAGEN_thumbnail}{250}{196}{DRAGEN_thumbnail.png} 
+- Distributionally Robust Policy Learning via Adversarial Environment Generation \n Allen Z. Ren, Anirudha Majumdar \n Under review, 2021 [https://arxiv.org/abs/2107.06353 Arxiv] | [https://www.youtube.com/watch?v=E_DlR18cmSY Video]
+~~~
+
+~~~
 {}{img_left}{\pictures\corl20_thumbnail.jpg}{corl20_thumbnail}{250}{142}{corl20_thumbnail.jpg} 
 - Generalization Guarantees for (Multi-Modal) Imitation Learning \n Allen Z. Ren, [http://sveer.mycpanel.princeton.edu/ Sushant Veer], Anirudha Majumdar \n Conference on Robot Learning (CoRL), 2020 [https://arxiv.org/abs/2008.01913 Arxiv] | [https://github.com/irom-lab/PAC-Imitation Code] | [https://www.youtube.com/watch?v=dfXyHvOTolc&t=1s Experiment Video] | [https://www.youtube.com/watch?v=nabtvOWoIlo&feature=emb_logo 5min Presentation]
 ~~~
 
-- Quantifying distributional shift and adversarially augmenting dataset for robot training
+- Combining statistical generalization guarantees with safe reinforcement learning and shielding
 
 == Education
 - Ph.D. Student in Mechanical Engineering, Princeton University, 2019-Present
@@ -25,11 +30,11 @@ Email: [allen.ren@princeton.edu allen.ren@princeton.edu]
 - B.S. Mechanical Engineering, Minor in Mathematics, Johns Hopkins University, 2015-2019\n
   Advisor: [https://me.jhu.edu/faculty/chen-li/ Prof. Chen Li]
 
-== Awards and Scholarships
-- James F. Bell Award, for outstanding research and scholarly achievement in mechanical engineering, JHU, 2018
-- Robotics Institute Summer Scholars, CMU, 2018
-- Robert George Gerstmyer Award, for outstanding undergraduate achievement in mechanical engineering, JHU, 2019
-- ASME Best Senior Design Project, JHU, 2019
+# == Awards and Scholarships
+# - James F. Bell Award, for outstanding research and scholarly achievement in mechanical engineering, JHU, 2018
+# - Robotics Institute Summer Scholars, CMU, 2018
+# - Robert George Gerstmyer Award, for outstanding undergraduate achievement in mechanical engineering, JHU, 2019
+# - ASME Best Senior Design Project, JHU, 2019
 
 == Undergraduate Research
 - Built insect-inspired legged robots and investigated general principles of terrestrial locomotion through robophysical experiments [http://meetings.aps.org/Meeting/MAR18/Session/B50.10 APS 2018], [\pdfs\bb_2017.pdf BB 2019]
@@ -39,7 +44,7 @@ Email: [allen.ren@princeton.edu allen.ren@princeton.edu]
 == Others
 - Service: 
   -- Co-organizer, Princeton Robotics Seminar
-  -- Webmaster, [robo.princeton.edu Robotics at Princeton]
+  -- Webmaster, [https://robo.princeton.edu Robotics at Princeton]
 
 == About Me
-I was born in Jiangsu, China and grew up there until 16 when I came to the U.S. by myself to continue high school studies. I can speak Mandarin, English, and [https://en.wikipedia.org/wiki/Wu_Chinese Wu] fluently. I enjoy soccer (both watching and playing) and traveling/backpacking. I am also getting a private pilot license.
+I was born in Jiangsu, China and grew up there until 16 when I continued high school in the U.S.. I can speak Mandarin, English, and [https://en.wikipedia.org/wiki/Wu_Chinese Wu] fluently. I enjoy watching and playing soccer, hitting the gym, and traveling/backpacking. I am also getting a private pilot license.
